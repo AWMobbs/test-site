@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40515E
+
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  text-decoration: none;
+  margin: 10px 20px;
+  font-size: 1rem;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+hr {
+  border-style: none none dotted none;
+  border-width: 8px;
+  border-color: #EAF6F6;
+  height: 2px;
+  width: 5%;
+}
+
+.top-container {
+  background-color: #ecfbfc;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+
+.profile{
+  width: 30%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+.profile-image {
+  border-radius: 50%;
+  height: 200px;
+}
+
+.skills{
+  margin-top: 100px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  margin-top: 100px;
+}
+
+.typewriter {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.degree {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.contact-me {
+  width: 30%;
+  margin: 100px auto 100px auto;
+  margin-top: 100px;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.contact-text {
+padding-bottom: 30px;
+}
+
+
+.surname{
+  padding-top: 20px;
+  font-size: .6rem;
+  color: #EAF6F6;
+}
+.btn{
+  border: 0;
+  line-height: 2.5;
+  padding: 10px 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  border-radius: 10px;
+  background-color: #66BFBF;
+}
+.btn:hover {
+  background-color: #11999E;
+}
